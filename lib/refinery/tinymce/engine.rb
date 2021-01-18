@@ -12,7 +12,6 @@ module Refinery
           tinymce/themes/modern/theme.js
           tinymce.css
           tinymce/skins/content/default/*
-          tinymce/skins/ui/oxide/*
           tinymce/plugins/link/*
           tinymce/plugins/image/*
           tinymce/plugins/fullscreen/*
